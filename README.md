@@ -30,15 +30,15 @@
 -----------------------------------------------------
 <h1>Projects</h1>
 <hr>
-<img src="https://foxygaming-esport.at/assets/img/foxygaminglogo.png" />
-<h1>foxygaming-esport.at</h1>
-<p>An esport with many advantages such as: tournaments with cash prizes and coding tournaments!
+<img src="https://survedgaming.at/home/images/Served_gaming_Logo_2.png" width="150cm"/>
+<h1>survedgaming.at</h1>
+<p>A comunity that plays games have our own game servers an help ech other!
 more coming soon...</p> 
 Discord:
-https://discord.gg/svS7Sbq5
+https://discord.gg/paVRxtce78
 <br>
 Website:
-https://foxygaming-esport.at/
+https://survedgaming.at/
 <br>
 <hr>
 <img src="https://letscodestudio.netlify.app/assets/img/letscodeicon.png" width="150cm" />
