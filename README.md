@@ -25,6 +25,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dyplay)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/aebd8f0d-9198-4036-b795-92012d9b7adf/deploy-status)](https://app.netlify.com/sites/xenodochial-lamport-33f5c2/deploys)
+
 -----------------------------------------------------
 <h1>Projects</h1>
 <hr>
