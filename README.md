@@ -26,30 +26,3 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dyplay)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/aebd8f0d-9198-4036-b795-92012d9b7adf/deploy-status)](https://app.netlify.com/sites/xenodochial-lamport-33f5c2/deploys)
-
------------------------------------------------------
-<h1>Projects</h1>
-<hr>
-<img src="https://survedgaming.at/home/images/Served_gaming_Logo_2.png" width="150cm"/>
-<h1>survedgaming.at</h1>
-<p>A comunity that plays games have our own game servers an help ech other!
-more coming soon...</p> 
-Discord:
-https://discord.gg/paVRxtce78
-<br>
-Website:
-https://survedgaming.at/
-<br>
-<hr>
-<img src="https://letscodestudio.netlify.app/assets/img/letscodeicon.png" width="150cm" />
-<h1>Lets code studio's</h1>
-<p>a project from the school but if it is no longer managed by teachers we will continue it!
-and btw feel free to check out our discord! and our website!</p>
-
-Discord:
-https://discord.gg/urFABNFRrN
-<br>
-Website:
-https://letscodestudio.it/
-<br>
-<hr>
