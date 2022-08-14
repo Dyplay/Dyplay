@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning c#
 - 🤔 I’m looking for help with discord.js
 - 💬 Ask me about html,css,js (dont know much), pyhton
-- 📫 How to reach me: discord: Dyplay#0979
+- 📫 How to reach me: discord: Dyplay#8486
 - 😄 Pronouns: He/Him
 
 <h3 align="center">A passionate frontend developer from Austria</h3>
