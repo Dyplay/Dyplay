@@ -23,9 +23,9 @@
 - 📘 [***Dyplay/Wifi-networks***](https://github.com/Dyplay/Wifi_networks) <br/>
   Shows you all the Wifi networks Make sure to link against the iphlpapi.lib and ws2_32.lib libraries when compiling the code.
 - 📙 [***Dyplay/donut-animation-cmd***](https://github.com/Dyplay/donut-animation-cmd) <br/>
-  Extract videos and photos from NovaDesktop
-- 📕 [***Dyplay/Discord-Markdown***](https://github.com/aiko-chan-ai/Discord-Markdown) <br/>
-  Better Markdown to text chat Discord.
+  Just a spinning donut in a command prompt
+- 📕 [***Dyplay/smaple-web-dyplay***](https://github.com/Dyplay/smaple-web-dyplay) <br/>
+  My own sample website html,css,javascript
 
 <br/>
 
