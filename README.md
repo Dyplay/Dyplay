@@ -1,8 +1,8 @@
 #
 <div>
-<img src="https://cdn.discordapp.com/attachments/784531291701641256/1236367829805305887/pixelcut-export.png?ex=6637c0c5&is=66366f45&hm=412fe40446a64d17f1d5ada2dd77f33e5af922a21ca52f0a4a81de81a105f39f&" width="300" align="right" />
+<img src="https://cdn.discordapp.com/attachments/1224454053820629153/1238966214697422938/d69c8dff67359a242505538bff5016b1.png?ex=664134b4&is=663fe334&hm=cdc09534470fdf2ad2be53124afa4c7588111fa3fb4a6a10dff78557c804750e&" width="300" align="right" />
 <br/>
-<img style="border-radius: 50px" src="https://cdn.discordapp.com/attachments/784531291701641256/1236364911345664142/About_Me_1.png?ex=6637be0d&is=66366c8d&hm=f7fb8996c847e07d5123ae885bcb94fdf969b4eebf4a7e6090d4511822505ea1&" width="500" />
+<img style="border-radius: 50px" src="https://media.discordapp.net/attachments/1224454053820629153/1238966215414648872/About_Me_1.png?ex=664134b4&is=663fe334&hm=65926c145ea93b17898d6a099ebb3cce7494f9e9837262ee1c549313fa51ea9c&=&format=webp&quality=lossless&width=625&height=131" width="500" />
 <br/>
 <br/>
   
@@ -12,9 +12,9 @@
 
 - <img src="https://i.imgur.com/Xjb867j.png" alt="." width="16" height="16"/> JavaScript, <img src="https://i.imgur.com/eZxBcrA.png" alt="." width="16" height="16"/> [NodeJS](https://nodejs.org/), <img src="https://static-00.iconduck.com/assets.00/lua-icon-256x256-nsxaty80.png" alt="." width="16" height="16"/> [Lua](https://www.lua.org/), <img src="https://raw.githubusercontent.com/brand-icons/brands/66a515d0afc1bdf9cd308a9ae8d85e1bd23a4d97/icons/color/python.svg" alt="." width="16" height="16"/> [Python](https://www.python.org/) and <img src="https://i.imgur.com/qgdFuhG.png" alt="." width="16" height="16"/> C++
 
-<img src="https://cdn.discordapp.com/attachments/784531291701641256/1236369277402222676/d69c8dff67359a242505538bff5016b1.png?ex=6637c21e&is=6636709e&hm=bb45787fe99a3ad4e51fde9ba3af19c817db976098451fb44538aa3deb66ad72&" width="300" align="right" />
+<img src="https://media.discordapp.net/attachments/1224454053820629153/1238966214924046378/pixelcut-export.png?ex=664134b4&is=663fe334&hm=5b5b6000ab2c1f27da0c066dc7b11113bd79b90a602dc6d9bcbe3cee2b939721&=&format=webp&quality=lossless&width=670&height=670" width="300" align="right" />
 <br/>
-<img src="https://cdn.discordapp.com/attachments/784531291701641256/1236367395988312134/About_Me_3.png?ex=6637c05d&is=66366edd&hm=a42c17c323f4af988130c596f01826fb3190e256f36aa10cacdd3f4e9c143fa0&" width="500" />
+<img src="https://media.discordapp.net/attachments/1224454053820629153/1238966215175831744/About_Me_3.png?ex=664134b4&is=663fe334&hm=ad99fc49b000af446e248d7ed0886a1f7b9a31af4fe731f2154718f4ef949048&=&format=webp&quality=lossless&width=625&height=131" width="500" />
 <br/>
 <br/>
   
