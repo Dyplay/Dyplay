@@ -12,9 +12,9 @@
 
 - <img src="https://i.imgur.com/Xjb867j.png" alt="." width="16" height="16"/> JavaScript, <img src="https://i.imgur.com/eZxBcrA.png" alt="." width="16" height="16"/> [NodeJS](https://nodejs.org/), <img src="https://static-00.iconduck.com/assets.00/lua-icon-256x256-nsxaty80.png" alt="." width="16" height="16"/> [Lua](https://www.lua.org/), <img src="https://raw.githubusercontent.com/brand-icons/brands/66a515d0afc1bdf9cd308a9ae8d85e1bd23a4d97/icons/color/python.svg" alt="." width="16" height="16"/> [Python](https://www.python.org/) and <img src="https://i.imgur.com/qgdFuhG.png" alt="." width="16" height="16"/> C++
 
-<img src="https://media.discordapp.net/attachments/1224454053820629153/1238966214924046378/pixelcut-export.png?ex=664134b4&is=663fe334&hm=5b5b6000ab2c1f27da0c066dc7b11113bd79b90a602dc6d9bcbe3cee2b939721&=&format=webp&quality=lossless&width=670&height=670" width="300" align="right" />
+<img src="https://passionate-spider.static.domains/pixelcut-export.png" width="300" align="right" />
 <br/>
-<img src="https://lh3.google.com/u/0/d/1_p-bYhbPyxZguqor_ce9lafrZz0tnEjJ=w1920-h953-iv1" width="500" />
+<img src="https://passionate-spider.static.domains/About_Me_3.png" width="500" />
 <br/>
 <br/>
   
