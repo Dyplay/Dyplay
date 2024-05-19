@@ -1,8 +1,8 @@
 #
 <div>
-<img src="https://lh3.google.com/u/0/d/16wn0XeBmZARB7m1EZn3OEikNz1Sw_Iid=w1920-h953-iv1" width="300" align="right" />
+<img src="https://passionate-spider.static.domains/d69c8dff67359a242505538bff5016b1.png" width="300" align="right" />
 <br/>
-<img style="border-radius: 50px" src="https://lh3.google.com/u/0/d/1zYw6qH6E29FPs3iSwgvoIdwYBwv-8jpK=w1329-h953-iv1" width="500" />
+<img style="border-radius: 50px" src="https://passionate-spider.static.domains/About_Me_1.png" width="500" />
 <br/>
 <br/>
   
