@@ -1,8 +1,8 @@
 #
 <div>
-<img src="https://cdn.discordapp.com/attachments/1224454053820629153/1238966214697422938/d69c8dff67359a242505538bff5016b1.png?ex=664134b4&is=663fe334&hm=cdc09534470fdf2ad2be53124afa4c7588111fa3fb4a6a10dff78557c804750e&" width="300" align="right" />
+<img src="https://lh3.google.com/u/0/d/16wn0XeBmZARB7m1EZn3OEikNz1Sw_Iid=w1920-h953-iv1" width="300" align="right" />
 <br/>
-<img style="border-radius: 50px" src="https://media.discordapp.net/attachments/1224454053820629153/1238966215414648872/About_Me_1.png?ex=664134b4&is=663fe334&hm=65926c145ea93b17898d6a099ebb3cce7494f9e9837262ee1c549313fa51ea9c&=&format=webp&quality=lossless&width=625&height=131" width="500" />
+<img style="border-radius: 50px" src="https://lh3.google.com/u/0/d/1zYw6qH6E29FPs3iSwgvoIdwYBwv-8jpK=w1329-h953-iv1" width="500" />
 <br/>
 <br/>
   
@@ -14,7 +14,7 @@
 
 <img src="https://media.discordapp.net/attachments/1224454053820629153/1238966214924046378/pixelcut-export.png?ex=664134b4&is=663fe334&hm=5b5b6000ab2c1f27da0c066dc7b11113bd79b90a602dc6d9bcbe3cee2b939721&=&format=webp&quality=lossless&width=670&height=670" width="300" align="right" />
 <br/>
-<img src="https://media.discordapp.net/attachments/1224454053820629153/1238966215175831744/About_Me_3.png?ex=664134b4&is=663fe334&hm=ad99fc49b000af446e248d7ed0886a1f7b9a31af4fe731f2154718f4ef949048&=&format=webp&quality=lossless&width=625&height=131" width="500" />
+<img src="https://lh3.google.com/u/0/d/1_p-bYhbPyxZguqor_ce9lafrZz0tnEjJ=w1920-h953-iv1" width="500" />
 <br/>
 <br/>
   
