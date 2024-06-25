@@ -1,6 +1,6 @@
 #
 <div>
-<img src="https://passionate-spider.static.domains/d69c8dff67359a242505538bff5016b1.png" width="300" align="right" />
+<img src="https://i.ibb.co/nRFP7Bm/Design-ohne-Titel-37.png" width="300" align="right" />
 <br/>
 <img style="border-radius: 50px" src="https://passionate-spider.static.domains/About_Me_1.png" width="500" />
 <br/>
