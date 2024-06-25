@@ -2,7 +2,7 @@
 <div>
 <img src="https://i.ibb.co/nRFP7Bm/Design-ohne-Titel-37.png" width="300" align="right" />
 <br/>
-<img style="border-radius: 50px" src="https://passionate-spider.static.domains/About_Me_1.png" width="500" />
+<img style="border-radius: 50px" src="https://i.ibb.co/k03B7SP/About-Me-1.jpg" width="500" />
 <br/>
 <br/>
   
@@ -12,9 +12,9 @@
 
 - <img src="https://i.imgur.com/Xjb867j.png" alt="." width="16" height="16"/> JavaScript, <img src="https://i.imgur.com/eZxBcrA.png" alt="." width="16" height="16"/> [NodeJS](https://nodejs.org/), <img src="https://static-00.iconduck.com/assets.00/lua-icon-256x256-nsxaty80.png" alt="." width="16" height="16"/> [Lua](https://www.lua.org/), <img src="https://raw.githubusercontent.com/brand-icons/brands/66a515d0afc1bdf9cd308a9ae8d85e1bd23a4d97/icons/color/python.svg" alt="." width="16" height="16"/> [Python](https://www.python.org/) and <img src="https://i.imgur.com/qgdFuhG.png" alt="." width="16" height="16"/> C++
 
-<img src="https://passionate-spider.static.domains/pixelcut-export.png" width="300" align="right" />
+<img src="https://i.ibb.co/mtdyqwb/pixelcut-export.png" width="300" align="right" />
 <br/>
-<img src="https://passionate-spider.static.domains/About_Me_3.png" width="500" />
+<img src="https://i.ibb.co/HYbcwhW/About-Me-3.jpg" width="500" />
 <br/>
 <br/>
   
