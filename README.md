@@ -8,7 +8,7 @@
   
 - <img src="https://cdn.discordapp.com/emojis/1078241650465325106.gif?size=128&quality=lossless" alt="." width="16" height="16"/> Student from Austria
 - <img src="https://discord.com/assets/392afbce691f13e88c63.svg" alt="." width="16" height="16"/> Frontend & Backend Web Developer
-- <img src="https://cdn.discordapp.com/emojis/1190996826954940466.webp?size=128&quality=lossless" alt="."  width="16" height="16" /> Some professional 17 year old dumbass
+- <img src="https://cdn.discordapp.com/emojis/1190996826954940466.webp?size=128&quality=lossless" alt="."  width="16" height="16" /> Some professional 18 year old dumbass
 
 - <img src="https://i.imgur.com/Xjb867j.png" alt="." width="16" height="16"/> JavaScript, <img src="https://i.imgur.com/eZxBcrA.png" alt="." width="16" height="16"/> [NodeJS](https://nodejs.org/), <img src="https://static-00.iconduck.com/assets.00/lua-icon-256x256-nsxaty80.png" alt="." width="16" height="16"/> [Lua](https://www.lua.org/), <img src="https://raw.githubusercontent.com/brand-icons/brands/66a515d0afc1bdf9cd308a9ae8d85e1bd23a4d97/icons/color/python.svg" alt="." width="16" height="16"/> [Python](https://www.python.org/) and <img src="https://i.imgur.com/qgdFuhG.png" alt="." width="16" height="16"/> C++ <img src="https://www.php.net//images/logos/new-php-logo.svg" alt="." width="16" height="16"> php
 
